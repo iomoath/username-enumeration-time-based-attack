@@ -1,1 +1,1 @@
-# username-enumeration-time-based-attack
+Simple script to determine if a login page is vulnerable to username enumeration time based attack 
